@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.zh.gradle.todo.App" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-11-15T08:43:10" hostname="RunningHong" time="0.009">
+  <properties/>
+  <testcase name="hello" classname="com.zh.gradle.todo.App" time="0.009"/>
+  <system-out><![CDATA[16:43:10.010 [Test worker] INFO com.zh.gradle.todo.App - Hello World!
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
