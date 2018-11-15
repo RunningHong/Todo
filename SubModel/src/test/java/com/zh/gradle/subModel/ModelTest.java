@@ -9,7 +9,7 @@ public class ModelTest {
 
     @Test
     public void hello() {
-        String mes = "*********************This is message. *************************";
+        String mes = "*********************This is message. ******---*******************";
 
         for (int i = 0; i < 5; i++) {
             System.out.println("dddddddddddddderrordERRORdddddddddddddddddddddd");
