@@ -140,8 +140,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/SubModel/src/test/java/com/zh/gradle/subModel/ModelTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="24">
-              <caret line="7" column="56" selection-start-line="7" selection-start-column="56" selection-end-line="7" selection-end-column="56" />
+            <state relative-caret-position="285">
+              <caret line="15" column="81" lean-forward="true" selection-start-line="15" selection-start-column="81" selection-end-line="15" selection-end-column="81" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -751,7 +751,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/CodeSpace/ideaWorkspace/Test/Gradle/Todo/SubModel/build.gradle&#10;hier&#9;ACTION&#9;ActivateHierarchyToolWindow" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542289240696" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542289429227" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -887,7 +887,7 @@
       <updated>1542263781866</updated>
       <workItem from="1542263787558" duration="7549000" />
       <workItem from="1542271532886" duration="5664000" />
-      <workItem from="1542282241031" duration="6643000" />
+      <workItem from="1542282241031" duration="6907000" />
     </task>
     <servers />
   </component>
@@ -924,7 +924,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19856000" />
+    <option name="totallyTimeSpent" value="20120000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -1084,8 +1084,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SubModel/src/test/java/com/zh/gradle/subModel/ModelTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="7" column="56" selection-start-line="7" selection-start-column="56" selection-end-line="7" selection-end-column="56" />
+        <state relative-caret-position="285">
+          <caret line="15" column="81" lean-forward="true" selection-start-line="15" selection-start-column="81" selection-end-line="15" selection-end-column="81" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
