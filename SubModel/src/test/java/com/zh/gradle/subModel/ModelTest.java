@@ -7,6 +7,10 @@ import org.slf4j.LoggerFactory;
 public class ModelTest {
     Logger log = LoggerFactory.getLogger(ModelTest.class);
 
+    public static void main(String[] args) {
+        System.out.println("This is out ");
+    }
+
     @Test
     public void hello() {
         String mes = "*********************This is message. ******---*******************";
