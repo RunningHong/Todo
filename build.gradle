@@ -46,9 +46,9 @@ allprojects {
  */
 def createDir = {
     path ->
-        File dir = new File(path);
+        File dir = new File(path)
         if(!dir.exists()) {
-            dir.mkdirs();
+            dir.mkdirs()
         }
 }
 
@@ -61,10 +61,10 @@ task makeJavaDir() {
     def paths = ["src/main/java",
                  "src/main/resources",
                  "src/test/java",
-                 "src/test/resources"];
+                 "src/test/resources"]
 
     doFirst {
-        paths.forEach(createDir);
+        paths.forEach(createDir)
     }
 }
 
@@ -75,10 +75,10 @@ task makeJavaDir() {
  */
 task makeWebDir() {
     // 依赖于makeJavaDir这个task
-    dependsOn 'makeJavaDir';
-    def paths = ["src/main/webapp", "src/test/webapp"];
+    dependsOn 'makeJavaDir'
+    def paths = ["src/main/webapp", "src/test/webapp"]
 
     doLast {
-        paths.forEach(createDir);
+        paths.forEach(createDir)
     }
 }
